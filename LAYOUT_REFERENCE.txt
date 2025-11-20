@@ -54,4 +54,3 @@
 • Prev/Next = Previous/Next track
 • Play = Play/Pause
 • Vol-/Vol+ = Volume down/up
-
